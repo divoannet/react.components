@@ -1,0 +1,8 @@
+.value {
+    font-size: 46px;
+    font-weight: 300;
+}
+
+.chartSegment {
+    cursor: pointer;
+}
